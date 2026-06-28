@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Mudassir-Arif&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Mudassir-Arif?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
 
@@ -33,7 +33,7 @@ class MudassirArif:
 
     currently_building = "AI-powered chatbots & LangChain applications"
     goal               = "Turning ideas into intelligent, production-ready AI products"
-    
+
     def say_hello(self):
         print("Thanks for visiting! Let's build something amazing with AI 🚀")
 ```
@@ -46,9 +46,9 @@ class MudassirArif:
 
 ### 🤖 AI & Generative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🐍 Languages & Frameworks
@@ -60,7 +60,6 @@ class MudassirArif:
 
 ### 🧠 ML & Data Science
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge&logo=ai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🔧 Tools & Platforms
@@ -78,9 +77,9 @@ class MudassirArif:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mudassir-Arif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=a78bfa&icon_color=a78bfa&text_color=e0e0e0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassir-Arif&theme=tokyonight&hide_border=true&background=0f0f1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Mudassir-Arif&theme=tokyonight&hide_border=true&background=0f0f1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
-<br/>
+<br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassir-Arif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=a78bfa&text_color=e0e0e0" />
 
@@ -92,7 +91,7 @@ class MudassirArif:
 
 ```
 🔭  Building AI Chatbots with LangChain + Groq
-🌱  Exploring RAG, AI Agents & Vector Databases  
+🌱  Exploring RAG, AI Agents & Vector Databases
 🤖  Creating production-ready Streamlit AI Apps
 🎯  Growing as a Generative AI Engineer
 ```
@@ -103,7 +102,8 @@ class MudassirArif:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Mudassir-Arif&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" />
+
 </div>
 
 ---
@@ -112,7 +112,7 @@ class MudassirArif:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mudassir-Arif&bg_color=0f0f1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mudassir-Arif&bg_color=0f0f1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -120,7 +120,6 @@ class MudassirArif:
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 **⭐ Star my repos if you find them useful!**
