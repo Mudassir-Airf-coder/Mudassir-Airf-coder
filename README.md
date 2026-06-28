@@ -103,8 +103,7 @@ class MudassirArif:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mudassir_Arif&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)
 </div>
 
 ---
