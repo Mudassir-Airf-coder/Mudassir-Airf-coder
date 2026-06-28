@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mudassir%20Arif&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Generative%20AI%20Engineer&descAlignY=60&descSize=22"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🤖+Generative+AI+Engineer;🔗+LangChain+%7C+Groq+%7C+Streamlit;🐍+Python+Developer;🧠+Building+Intelligent+Applications;🚀+Turning+Ideas+into+AI+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🤖+Generative+AI+Engineer;🔗+LangChain+%7C+Groq+%7C+Streamlit;🐍+Python+Developer;🧠+Building+Intelligent+Applications;🚀+Turning+Ideas+into+AI+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -103,7 +103,7 @@ class MudassirArif:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mudassir-Arif&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mudassir_Arif&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)
 
 </div>
 
